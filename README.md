@@ -12,14 +12,14 @@ Repostory for AI projects from my univerisity
 ## REQUIREMENTS
 Pandas - Python library 
 
-  Installation
+  ### Installation
   ```
   pip install pandas
   ```
 
 Numpy - Python library
 
-  Installation
+  ### Installation
   ```
   pip install numpy or pip3 install numpy
   ```
@@ -27,7 +27,7 @@ Numpy - Python library
 ```
 python main.py
 ```
-or
+### or
 ```
 https://repl.it/@Rjlmota/Iris
 ```
