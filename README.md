@@ -13,16 +13,26 @@ Repostory for AI projects from my univerisity
 Pandas - Python library 
 
   ### Installation
-  ```
-  pip install pandas
-  ```
+   #### Python 2
+   ```
+   pip install pandas
+   ```
+   #### Python 3
+   ```
+   pip3 install pandas
+   ```
 
 Numpy - Python library
 
   ### Installation
-  ```
-  pip install numpy or pip3 install numpy
-  ```
+   #### Python 2 
+   ```
+   pip install numpy
+   ```
+   #### Python 3
+   ```
+   pip3 install numpy
+   ```
 ## HOW TO RUN
 ```
 python main.py
