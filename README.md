@@ -13,22 +13,21 @@ Repostory for AI projects from my univerisity
 Pandas - Python library 
 
   Installation
-  '''
+  ```
   pip install pandas
-  '''
+  ```
 
 Numpy - Python library
 
   Installation
-  '''
+  ```
   pip install numpy or pip3 install numpy
-  '''
+  ```
 ## HOW TO RUN
-'''
+```
 python main.py
-'''
-
+```
 or
-'''
+```
 https://repl.it/@Rjlmota/Iris
-'''
+```
