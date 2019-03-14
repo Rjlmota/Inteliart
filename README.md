@@ -1,6 +1,8 @@
 # Inteliart
 Repostory for AI projects from my univerisity
 
+https://github.com/Rjlmota/Inteliart
+
 
 ## Alternative for instant execution
   Click the following link to run the code in a web linux enviroment.
